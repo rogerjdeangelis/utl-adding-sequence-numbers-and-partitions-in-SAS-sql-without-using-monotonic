@@ -11,7 +11,10 @@ Adding sequence numbers and partitions in sas proc sql without using monotonic
     Monotomic is not supported, perhaps this is supported?
 
     Related repos on end
-
+    
+    github                                                                                                          
+    http://tinyurl.com/3zpmd3zy                                                                                     
+    https://github.com/rogerjdeangelis/utl-adding-sequence-numbers-and-partitions-in-SAS-sql-without-using-monotonic
     /*               _     _
      _ __  _ __ ___ | |__ | | ___ _ __ ___
     | `_ \| `__/ _ \| `_ \| |/ _ \ `_ ` _ \
